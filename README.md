@@ -1,4 +1,4 @@
-# Hi, I’m Naveen Harinda
+# Hi, I’m Naveen
 
 I’m a final-year Computer Science undergraduate at the University of Colombo School of Computing. I enjoy building web apps and search tools, and exploring how things work at a lower level in C.
 
